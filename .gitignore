@@ -1,0 +1,23 @@
+/bin/
+/doc/
+.settings/
+
+## Eclipse project files
+.classpath
+.project
+
+## Java class files
+*.class
+
+## Log file
+*.log
+
+## Package files
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+## backup
+*.bak
