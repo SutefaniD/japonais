@@ -1,6 +1,7 @@
-/bin/*
+/bin/
 /doc/
 .settings/
+ProjetCreerVirtualKeyboard2/bin
 
 ## Eclipse project files
 .classpath
